@@ -19,6 +19,10 @@ for (int i=0;i<length;i++){
         System.out.print(str3.substring(i, j)+" ");
     }
     System.out.println("");
-}
+}           //substring of a string
+
+String str4="hello";
+String str5="world";
+System.out.println(str4.concat(str5)); //concatenation of two strings
     }
 }
