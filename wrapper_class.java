@@ -1,4 +1,4 @@
-public class wrraper_class {
+public class wrapper_class {
     public static void main(String[] args) {
         int num = 100;
         char ch = 'A';
